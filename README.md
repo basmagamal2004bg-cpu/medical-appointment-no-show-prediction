@@ -64,4 +64,4 @@ streamlit run app.py
 To reproduce the training, download the dataset from Kaggle, place the CSV next to the notebook, and run `no_show_prediction.ipynb` from top to bottom.
 
 ## Live Demo
-[Streamlit app](PASTE-STREAMLIT-LINK-HERE)
+[Streamlit app](https://medical-appointment-no-show-prediction-n9my3djmdrzmntqmkptvud.streamlit.app/)
